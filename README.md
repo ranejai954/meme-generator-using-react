@@ -7,5 +7,3 @@ This README is comprehensive and covers:
 - Customization options
 - Contributing guidelines
 - License information
-
-Save this as `README.md` in your GitHub repository alongside the `meme-generator.html` file.
